@@ -4,17 +4,18 @@
 Niatnya sih buat E-Commerce untuk nyoba package kang Sulaeman https://github.com/feelinc
 
 
-#Installasi
+###Installasi
 
 
 	composer install 
 
-#Package yang di install
--Sentry2
--TeePluss\Theme
--Package E-Commercenya Kang Sule
+###Package yang di install
 
-#Documentasi
+- Sentry2
+- TeePluss\Theme
+- Package E-Commercenya Kang Sule
+
+###Documentasi
 
 belom ada
 
